@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Master Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{84A4058D-94FE-4767-82E6-452F7559ECA1}">
+  DTS:VersionBuild="17"
+  DTS:VersionGUID="{8BC12318-2F0B-4B39-98CD-1DB6879C1399}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -137,33 +137,33 @@
         <NodeLayout
           Size="192,42"
           Id="Package\Foreach Loop Container\Transfer Customer Data"
-          TopLeft="33,95" />
+          TopLeft="34,58" />
         <EdgeLayout
           Id="Package\Foreach Loop Container.PrecedenceConstraints[Constraint]"
-          TopLeft="225,116">
+          TopLeft="226,79">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="246,-29"
+              EndConnector="245,8"
               Start="0,0"
-              End="238.5,-29">
+              End="237.5,8">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="119,0" />
+                    End="118.5,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="119,0"
-                    Point2="123,0"
-                    Point3="123,-4" />
+                    Point1="118.5,0"
+                    Point2="122.5,0"
+                    Point3="122.5,4" />
                   <mssgle:LineSegment
-                    End="123,-25" />
+                    End="122.5,4" />
                   <mssgle:CubicBezierSegment
-                    Point1="123,-25"
-                    Point2="123,-29"
-                    Point3="127,-29" />
+                    Point1="122.5,4"
+                    Point2="122.5,8"
+                    Point3="126.5,8" />
                   <mssgle:LineSegment
-                    End="238.5,-29" />
+                    End="237.5,8" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
