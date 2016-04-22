@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Transfer Customer Data"
   DTS:PackageType="5"
-  DTS:VersionBuild="10"
-  DTS:VersionGUID="{A966734D-0928-4B91-AC1A-E20D5C0BEAD9}">
+  DTS:VersionBuild="11"
+  DTS:VersionGUID="{B27BB330-C962-4BA8-AFE4-CBCDB8D0342E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
